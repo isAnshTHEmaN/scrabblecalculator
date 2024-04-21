@@ -1,3 +1,4 @@
+#include <stdio.h>
 int scrabble()
 {
     char letter[100];
